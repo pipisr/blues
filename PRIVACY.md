@@ -4,7 +4,7 @@ Effective Date: 2023-11-08
 
 1. Introduction
 
-Welcome to the Bluetooth Simulator ("the App"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our App.
+Welcome to the `BlueS - Bluetooth Simulator` ("the App"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our App.
 
 2. Information We Collect
 
@@ -46,7 +46,7 @@ If you have any questions, concerns, or requests regarding your privacy or this 
 
 9. Consent
 
-By using the Bluetooth Simulator App, you consent to the collection and use of information as outlined in this Privacy Policy.
+By using the App, you consent to the collection and use of information as outlined in this Privacy Policy.
 
 10. Governing Law
 

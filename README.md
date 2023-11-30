@@ -1,6 +1,6 @@
-# Bluetooth Simulator
+# BlueS - Bluetooth Simulator
 
-Bluetooth Simulator is an iPad application that can simulate following devices
+BlueS - Bluetooth Simulator is an iPad application that can simulate following devices
 
 - [x] [DotPad 320](docs/dotpad-320.md)
 - [x] [micro:bit (scratch)](docs/microbit-scratch.md)
